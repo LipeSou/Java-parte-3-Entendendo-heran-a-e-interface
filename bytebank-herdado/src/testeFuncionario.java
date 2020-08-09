@@ -12,5 +12,7 @@ public class testeFuncionario {
 		System.out.println(felipe.getNome());
 		System.out.println(felipe.getSalario());
 		
+		System.out.println(felipe.getBonificacao());
+		
 	}
 }
