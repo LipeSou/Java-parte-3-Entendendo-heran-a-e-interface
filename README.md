@@ -12,3 +12,10 @@ Implemente interface e métodos abstratas
 Entenda o que é Polimorfismo
 Aprenda sobre reescrita e herança de métodos
 Conheça super e protected
+
+Cap2 
+que classe mãe é chamada de super ou base class
+que a classe filha também é chamada de sub class
+como aumentar a visibilidade de um membro (atributo, método) através do protected
+como acessar ou chamar um membro (atributo, método) através do super
+como redefinir um método através da sobrescrita
