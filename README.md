@@ -25,3 +25,10 @@ objetos não mudam de tipo;
 a referência pode mudar, e aí entra o polimorfismo;
 o polimorfismo permite usar referências mais genéricas para a comunicação com um objeto;
 o uso de referências mais genéricas permite desacoplar sistemas.
+
+Cap4
+Conceitos de herança, construtores e polimorfismo
+A utilização da anotação @Override
+Construtores não são herdados
+Um construtor da classe mãe pode ser chamado através do super()
+
