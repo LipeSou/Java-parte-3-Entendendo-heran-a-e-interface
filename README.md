@@ -32,3 +32,9 @@ A utilização da anotação @Override
 Construtores não são herdados
 Um construtor da classe mãe pode ser chamado através do super()
 
+Cap5 
+O que são classes abstratas
+Para que servem classes abstratas
+O que são métodos abstratos
+Para que servem métodos abstratos
+
